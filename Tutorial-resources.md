@@ -1,6 +1,5 @@
 ## Tutorials for getting started with machine learning techniques:
 
-
 ### Off-the-shelf tools:
 
 Weka: a software package for analyzing data with selected algorithms   [link](https://www.cs.waikato.ac.nz/ml/weka/)  

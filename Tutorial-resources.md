@@ -17,6 +17,8 @@ Neural Networks (course at Universite de Sherbrooke)  [link](https://www.youtube
 
 Deep Learning (Goodfellow, Bengio, and Courville)  [link](http://www.deeplearningbook.org/)
 
+Evolution Strategies  [link](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)
+
 
 ### Special Topics Tutorials: code-oriented  
 

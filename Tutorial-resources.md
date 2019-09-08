@@ -32,3 +32,7 @@ Learning from Data (MOOC sponsored by Caltech)  [link](https://work.caltech.edu/
 Machine Learning with Andrew Ng (Coursera)  [link](https://www.coursera.org/learn/machine-learning)
 
 Neural Networks and Deep Learning with Geoff Hinton (Coursera)  [link](https://www.coursera.org/learn/neural-networks-deep-learning)
+
+### Method Comparisons
+
+Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/)

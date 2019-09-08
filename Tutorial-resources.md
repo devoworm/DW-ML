@@ -21,7 +21,7 @@ Deep Learning (Goodfellow, Bengio, and Courville)  [link](http://www.deeplearnin
 
 ### Special Topics Tutorials: code-oriented  
 
-Coming soon!
+Machine Learning Tutorial for Beginners (Kaggle)  [link](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 
 ### General Tutorials and MOOCs  
 

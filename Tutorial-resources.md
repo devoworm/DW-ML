@@ -35,6 +35,8 @@ Machine Learning with Andrew Ng (Coursera)  [link](https://www.coursera.org/lear
 
 Neural Networks and Deep Learning with Geoff Hinton (Coursera)  [link](https://www.coursera.org/learn/neural-networks-deep-learning)
 
+Data Science and ML Resources (Data Science Central)  [link](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+
 ### Methods
 
 Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/)

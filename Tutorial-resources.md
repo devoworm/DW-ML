@@ -47,6 +47,10 @@ Xu, C. and Jackson, S.A. (2019). [Machine learning and complex biological data](
 
 [MetaCell](https://www.metacell.us/) Webinar: [Intersections between Deep Learning and Neuroscience](https://www.metacell.us/events/intersections-between-deep-learning-and-neuroscience)
 
+Packer J.S. et.al (2019). [A lineage-resolved molecular atlas of C. elegans embryogenesis at single-cell resolution](https://science.sciencemag.org/content/early/2019/09/04/science.aax1971). _Science_, doi:10.1126/science.aax1971.
+
+Lineage-resolved Molecular Atlas (Cello, single cell data explorer):  [link](https://cello.shinyapps.io/celegans/)
+
 ### Allied Methods
 
 Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/)

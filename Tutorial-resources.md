@@ -25,6 +25,8 @@ Artificial Intelligence and Deep Learning  [link](https://www.datasciencecentral
 
 Machine Learning Tutorial for Beginners (Kaggle)  [link](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 
+Data Science Workshops  [link](https://github.com/datascienceworkshops)
+
 ### General Tutorials and MOOCs  
 
 Machine Learning crash course (Google)  [link](https://developers.google.com/machine-learning/crash-course/)  

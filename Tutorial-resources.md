@@ -19,6 +19,7 @@ Deep Learning (Goodfellow, Bengio, and Courville)  [link](http://www.deeplearnin
 
 Evolution Strategies  [link](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)
 
+Artificial Intelligence and Deep Learning  [link](https://www.datasciencecentral.com/profiles/blogs/the-mathematics-behind-artificial-intelligence-and-deep-learning)
 
 ### Special Topics Tutorials: code-oriented  
 

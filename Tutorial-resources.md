@@ -39,6 +39,14 @@ Neural Networks and Deep Learning with Geoff Hinton (Coursera)  [link](https://w
 
 Data Science and ML Resources (Data Science Central)  [link](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 
-### Methods
+### Applications to Biology
+
+Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machine Learning and Its Applications to Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030116). _PLoS Compututatiuonal Biology_, 3(6), e116. https://doi.org/10.1371/journal.pcbi.0030116
+
+Xu, C. and Jackson, S.A. (2019). [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0). _Genome Biology_, 20, 76.
+
+[MetaCell](https://www.metacell.us/) Webinar: [Intersections between Deep Learning and Neuroscience](https://www.metacell.us/events/intersections-between-deep-learning-and-neuroscience)
+
+### Allied Methods
 
 Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/)

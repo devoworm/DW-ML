@@ -62,4 +62,7 @@ Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI
 Samuel, A.L. (1959). Some Studies in Machine Learning Using the Game of Checkers. IBM Journal of Research and Development, 
 3(3), 207-226  [Fermat's Library](https://fermatslibrary.com/s/some-studies-in-machine-learning-using-the-game-of-checkers#email-newsletter)
 
+Edward Raff: A Step Toward Quantifying Independently Reproducible Machine Learning Research.  [Github repo]
+(https://github.com/EdwardRaff/Quantifying-Independently-Reproducible-ML)  
+
 The Poisson Distribution and Poisson Process Explained  [link](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)  

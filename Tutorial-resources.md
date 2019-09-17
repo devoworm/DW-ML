@@ -57,6 +57,9 @@ Lineage-resolved Molecular Atlas (Cello, single cell data explorer):  [link](htt
 
 ### Allied Methods
 
-Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/) 
+Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/)
+
+Samuel, A.L. (1959). Some Studies in Machine Learning Using the Game of Checkers. IBM Journal of Research and Development, 
+3(3), 207-226  [Fermat's Library](https://fermatslibrary.com/s/some-studies-in-machine-learning-using-the-game-of-checkers#email-newsletter)
 
 The Poisson Distribution and Poisson Process Explained  [link](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)  

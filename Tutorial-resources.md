@@ -21,11 +21,13 @@ Evolution Strategies  [link](https://lilianweng.github.io/lil-log/2019/09/05/evo
 
 Artificial Intelligence and Deep Learning  [link](https://www.datasciencecentral.com/profiles/blogs/the-mathematics-behind-artificial-intelligence-and-deep-learning)
 
+
 ### Special Topics Tutorials: code-oriented  
 
 Machine Learning Tutorial for Beginners (Kaggle)  [link](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners)
 
-Data Science Workshops  [link](https://github.com/datascienceworkshops)
+Data Science Workshops  [link](https://github.com/datascienceworkshops)  
+
 
 ### General Tutorials and MOOCs  
 
@@ -39,6 +41,7 @@ Neural Networks and Deep Learning with Geoff Hinton (Coursera)  [link](https://w
 
 Data Science and ML Resources (Data Science Central)  [link](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 
+
 ### Applications to Biology
 
 Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machine Learning and Its Applications to Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030116). _PLoS Compututatiuonal Biology_, 3(6), e116. https://doi.org/10.1371/journal.pcbi.0030116
@@ -51,6 +54,9 @@ Packer J.S. et.al (2019). [A lineage-resolved molecular atlas of C. elegans embr
 
 Lineage-resolved Molecular Atlas (Cello, single cell data explorer):  [link](https://cello.shinyapps.io/celegans/)
 
+
 ### Allied Methods
 
-Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/)
+Evolution Strategies as a Scalable Alternative to Reinforcement Learning (OpenAI)  [link](https://openai.com/blog/evolution-strategies/) 
+
+The Poisson Distribution and Poisson Process Explained  [link](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)  

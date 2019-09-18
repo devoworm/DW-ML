@@ -42,7 +42,9 @@ Neural Networks and Deep Learning with Geoff Hinton (Coursera)  [link](https://w
 Data Science and ML Resources (Data Science Central)  [link](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 
 
-### Applications to Biology
+### Applications to Biology and Reviews
+
+Angermueller, C., Parnamaa, T., Parts, L., and Stegle, O. (2016). [Deep learning for computational biology](https://www.embopress.org/doi/pdf/10.15252/msb.20156651). _Molecular Systems Biology_, 12, 878. doi:10.15252/msb.20156651.
 
 Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machine Learning and Its Applications to Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030116). _PLoS Compututatiuonal Biology_, 3(6), e116. https://doi.org/10.1371/journal.pcbi.0030116
 

@@ -7,3 +7,5 @@ Please visit our [website](https://devoworm.weebly.com/), [Github repository](ht
 September 4: informational first meeting. [video](https://www.youtube.com/watch?v=3ogs0Y6GRk8&t=3s), [slides](https://drive.google.com/open?id=1K1Fmn0GTz1pNIhyyJ0b5Xe_RwPyslU4yRSYW02zlnR4)  
 
 September 11: second meeting (Digital Bacillaria). [video](https://youtu.be/oWFKnQoTKUs), [slides](https://drive.google.com/open?id=1jxpqf9SUJ74abqXvwS21YC4XhsOsnmAFIqCUVq_EZS0)  
+
+September 18: third meeting (OpenDevoCell). [video](https://youtu.be/4oUPqT_685A), [slides]()

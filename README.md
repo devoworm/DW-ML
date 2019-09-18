@@ -9,3 +9,8 @@ September 4: informational first meeting. [video](https://www.youtube.com/watch?
 September 11: second meeting (Digital Bacillaria). [video](https://youtu.be/oWFKnQoTKUs), [slides](https://drive.google.com/open?id=1jxpqf9SUJ74abqXvwS21YC4XhsOsnmAFIqCUVq_EZS0)  
 
 September 18: third meeting (OpenDevoCell). [video](https://youtu.be/4oUPqT_685A), [slides]()
+
+Gartner Hype Cycle for AI and ML (2019)
+<p align="center">
+  <img width="237" height="310" src="https://user-images.githubusercontent.com/19001437/65164955-79849580-da03-11e9-9768-6f113e808775.jpg">
+</p>

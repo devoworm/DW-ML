@@ -46,13 +46,13 @@ Data Science and ML Resources (Data Science Central)  [link](https://www.datasci
 
 Angermueller, C., Parnamaa, T., Parts, L., and Stegle, O. (2016). [Deep learning for computational biology](https://www.embopress.org/doi/pdf/10.15252/msb.20156651). _Molecular Systems Biology_, 12, 878. doi:10.15252/msb.20156651.
 
-Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machine Learning and Its Applications to Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030116). _PLoS Compututatiuonal Biology_, 3(6), e116. https://doi.org/10.1371/journal.pcbi.0030116
+Packer J.S. et.al (2019). [A lineage-resolved molecular atlas of C. elegans embryogenesis at single-cell resolution](https://science.sciencemag.org/content/early/2019/09/04/science.aax1971). _Science_, doi:10.1126/science.aax1971.
+
+Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machine Learning and Its Applications to Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030116). _PLoS Compututatiuonal Biology_, 3(6), e116. doi:10.1371/journal.pcbi.0030116.
 
 Xu, C. and Jackson, S.A. (2019). [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0). _Genome Biology_, 20, 76.
 
 [MetaCell](https://www.metacell.us/) Webinar: [Intersections between Deep Learning and Neuroscience](https://www.metacell.us/events/intersections-between-deep-learning-and-neuroscience)
-
-Packer J.S. et.al (2019). [A lineage-resolved molecular atlas of C. elegans embryogenesis at single-cell resolution](https://science.sciencemag.org/content/early/2019/09/04/science.aax1971). _Science_, doi:10.1126/science.aax1971.
 
 Lineage-resolved Molecular Atlas (Cello, single cell data explorer):  [link](https://cello.shinyapps.io/celegans/)
 

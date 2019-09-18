@@ -14,3 +14,5 @@ Gartner Hype Cycle for AI and ML (2019)
 <p align="center">
   <img width="298" height="234" src="https://user-images.githubusercontent.com/19001437/65164955-79849580-da03-11e9-9768-6f113e808775.jpg">
 </p>
+
+September 25: fourth meeting (Input Data).

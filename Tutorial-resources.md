@@ -8,6 +8,21 @@ Tensorflow: end-to-end package for Machine Learning  [link](https://www.tensorfl
 
 OpenCV: a software package for Machine Learning algorithm implementation  [link](https://opencv.org/)
 
+Keras: neural networks and deep learning library  [link](https://keras.io)
+
+### Pre-trained Models (Deep Learning)
+
+ResNet  [link](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+
+AlexNet  [link](https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6cbd137a5637)
+
+Inception  [link](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+
+DeepLab  [link](https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html)
+
+Mask R-CNN  [link](https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272)
+
+Pre-trained Model Zoo  [link](https://modelzoo.co/)
 
 ### Special Topics Tutorials: math-oriented  
 

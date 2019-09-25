@@ -61,7 +61,11 @@ Data Science and ML Resources (Data Science Central)  [link](https://www.datasci
 
 Angermueller, C., Parnamaa, T., Parts, L., and Stegle, O. (2016). [Deep learning for computational biology](https://www.embopress.org/doi/pdf/10.15252/msb.20156651). _Molecular Systems Biology_, 12, 878. doi:10.15252/msb.20156651.
 
+Jones, D.T. (2019). [Setting the standards for machine learning in biology](https://www.nature.com/articles/s41580-019-0176-5). _Nature Reviews Molecular Cell Biology_, doi:10.1038/s41580-019-0176-5.
+
 Packer J.S. et.al (2019). [A lineage-resolved molecular atlas of C. elegans embryogenesis at single-cell resolution](https://science.sciencemag.org/content/early/2019/09/04/science.aax1971). _Science_, doi:10.1126/science.aax1971.
+
+Tang, B., Pan, Z., Yin, K., and Khateeb, A. (2019). [Recent Advances of Deep Learning in Bioinformatics and Computational Biology](https://www.frontiersin.org/articles/10.3389/fgene.2019.00214/full). _Frontiers in Genetics_, doi:10.3389/fgene.2019.00214.
 
 Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machine Learning and Its Applications to Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030116). _PLoS Compututatiuonal Biology_, 3(6), e116. doi:10.1371/journal.pcbi.0030116.
 

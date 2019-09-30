@@ -16,3 +16,6 @@ Gartner Hype Cycle for AI and ML (2019)
 </p>
 
 September 25: fourth meeting (Input Data). [video](https://youtu.be/0zD8e-YGRlg), [slides](https://docs.google.com/presentation/d/1KwiWzh9Gjam8EFo8FyU3Kvam029qOnduUrkivroF7og/edit#slide=id.g6370173ebf_0_31)
+
+
+Date TBA: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)

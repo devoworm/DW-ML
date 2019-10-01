@@ -19,7 +19,7 @@ September 25: fourth meeting (Input Data). [video](https://youtu.be/0zD8e-YGRlg)
 
 October 2: fifth meeting (pre-trained models for Biology). [video](), [slides]()
 
-Space of process models, cognitive models vs. machine learning models. From: Figure 3 in Kriegeskortea and Douglas, "[Cognitive computational neuroscience](https://arxiv.org/abs/1807.11819)". _arXiv_, 1807.11819.
+Space of process models, cognitive models vs. machine learning models vs. neural simulations. From: Figure 3 in Kriegeskortea and Douglas, "[Cognitive computational neuroscience](https://arxiv.org/abs/1807.11819)". _arXiv_, 1807.11819.
 <p align="center">
   <img width="311" height="205" src="https://user-images.githubusercontent.com/19001437/65934766-44e9e400-e3dc-11e9-955e-5689221cf4e0.png">
 </p>

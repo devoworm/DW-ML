@@ -10,6 +10,19 @@ OpenCV: a software package for Machine Learning algorithm implementation  [link]
 
 Keras: neural networks and deep learning library  [link](https://keras.io)
 
+### Major Venues
+Distill (open journal)   [link](https://distill.pub/)
+
+arXiv stat.ML (preprints)  [link](https://arxiv.org/list/stat.ML/recent)
+
+Medium blog Machine Learning category  [link](https://medium.com/topic/machine-learning)
+
+IEEE Transactions on Pattern Analysis and Machine Intelligence (journal)  [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+
+Data Mining and Knowledge Discovery (journal)  [link](https://link.springer.com/journal/10618)
+
+Journal of Machine Learning Ressearch (journal)  [link](http://www.jmlr.org/)
+
 ### Pre-trained Models (Deep Learning)
 
 ResNet  [link](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
@@ -71,9 +84,12 @@ Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machi
 
 Xu, C. and Jackson, S.A. (2019). [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0). _Genome Biology_, 20, 76.
 
+
 [MetaCell](https://www.metacell.us/) Webinar: [Intersections between Deep Learning and Neuroscience](https://www.metacell.us/events/intersections-between-deep-learning-and-neuroscience)
 
 Lineage-resolved Molecular Atlas (Cello, single cell data explorer):  [link](https://cello.shinyapps.io/celegans/)
+
+"Machine Learning and Artificial Intelligence in Bioinformatics" section in _BMC Bioinformatics_  [link](https://www.biomedcentral.com/collections/machinelearningcomp)
 
 
 ### Allied Methods

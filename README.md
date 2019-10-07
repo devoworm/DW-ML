@@ -6,6 +6,9 @@ Please visit our [website](https://devoworm.weebly.com/), [Github repository](ht
 
 September 4: informational first meeting. [video](https://www.youtube.com/watch?v=3ogs0Y6GRk8&t=3s), [slides](https://drive.google.com/open?id=1K1Fmn0GTz1pNIhyyJ0b5Xe_RwPyslU4yRSYW02zlnR4)  
 
+[Knowledge Map of Machine Learning](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps/tree/master/Machine%20Learning
+), Orthogonal Research and Education Laboratory
+
 September 11: second meeting (Digital Bacillaria). [video](https://youtu.be/oWFKnQoTKUs), [slides](https://drive.google.com/open?id=1jxpqf9SUJ74abqXvwS21YC4XhsOsnmAFIqCUVq_EZS0)  
 
 September 18: third meeting (OpenDevoCell). [video](https://youtu.be/4oUPqT_685A), [slides](https://docs.google.com/presentation/d/1YYd8eQ8mQm6i4Vy920R4WEHBlnlHzSfV9ZZVgpU4ghw/edit?usp=drivesdk)

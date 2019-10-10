@@ -1,3 +1,5 @@
+To be cross-posted to [Synthetic Daisies](http://syntheticdaisies.blogspot.com/) and [The Node](https://thenode.biologists.com/) blogs
+
 ## What is a pre-trained model? 
 
 1) short description (guides training data to a general description of classes and features).

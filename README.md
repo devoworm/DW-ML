@@ -27,7 +27,7 @@ Space of process models, cognitive models vs. machine learning models vs. neural
   <img width="311" height="205" src="https://user-images.githubusercontent.com/19001437/65934766-44e9e400-e3dc-11e9-955e-5689221cf4e0.png">
 </p>
 
-October 9: sixth meeting (ML Education). [video](), [slides]()
+October 9: sixth meeting (TensorFlow Tutorial). [video](https://www.youtube.com/watch?v=fgtoMCSJX4Q), [slides]()
 
 Join us for Hacktoberfest through the month of October. Check out [our issues board](https://github.com/devoworm/DW-ML/projects/2) and make a pull request today!
 

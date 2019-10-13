@@ -37,7 +37,7 @@ Mask R-CNN  [link](https://medium.com/@jonathan_hui/image-segmentation-with-mask
 
 Pre-trained Model Zoo  [link](https://modelzoo.co/)
 
-### Special Topics Tutorials: math-oriented  
+### Special Topics Tutorials: math- and non-code-oriented  
 
 Naive Bayes classification  [link](https://www.machinelearningplus.com/predictive-modeling/how-naive-bayes-algorithm-works-with-example-and-full-code/)  
 
@@ -48,6 +48,8 @@ Deep Learning (Goodfellow, Bengio, and Courville)  [link](http://www.deeplearnin
 Evolution Strategies  [link](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)
 
 Artificial Intelligence and Deep Learning  [link](https://www.datasciencecentral.com/profiles/blogs/the-mathematics-behind-artificial-intelligence-and-deep-learning)
+
+Open Questions about Generative Adversarial Networks (GANs)  [link](https://distill.pub/2019/gan-open-problems/)
 
 
 ### Special Topics Tutorials: code-oriented  

@@ -60,7 +60,7 @@ Brooks, R.A. (1991). [Intelligence without representation](http://citeseerx.ist.
 
 Zador, A.M. (2019). [A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6). _Nature Communications_, 10, 3770.
 
-
+Marcus, G. (2018). [Bengio v Marcus, and the Past, Present and Future of Neural Network Models of Language](https://medium.com/@GaryMarcus/bengio-v-marcus-and-the-past-present-and-future-of-neural-network-models-of-language-b4f795ff352b). _Machine Learning Medium_, October 28.
 
 
 ### Special Topics Tutorials: code-oriented  

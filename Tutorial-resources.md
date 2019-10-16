@@ -51,6 +51,17 @@ Artificial Intelligence and Deep Learning  [link](https://www.datasciencecentral
 
 Open Questions about Generative Adversarial Networks (GANs)  [link](https://distill.pub/2019/gan-open-problems/)
 
+"Blobs" vs. "symbols" debate:
+Intuition Machines versus Algebraic Minds. Intuition Machines Medium blog, January 6, 2018. [link](https://medium.com/intuitionmachine/intuition-machines-versus-algebraic-minds-fad052b46ad5)
+
+The Current State of AI. Gary Marcus Medium blog, October 12, 2019. [link](https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970)
+
+Brooks, R.A. (1991). [Intelligence without representation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.308.6537&rep=rep1&type=pdf). _Artificial Intelligence_, 47, 139–159.
+
+Zador, A.M. (2019). [A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6). _Nature Communications_, 10, 3770.
+
+
+
 
 ### Special Topics Tutorials: code-oriented  
 

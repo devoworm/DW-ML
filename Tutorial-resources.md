@@ -86,7 +86,10 @@ Machine Learning with Andrew Ng (Coursera)  [link](https://www.coursera.org/lear
 
 Neural Networks and Deep Learning with Geoff Hinton (Coursera)  [link](https://www.coursera.org/learn/neural-networks-deep-learning)
 
-Data Science and ML Resources (Data Science Central)  [link](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+Data Science and ML Resources (Data Science Central)  [link](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)  
+
+Shafkat, I. (2018). [Intuitively Understanding Convolutions for Deep Learning Exploring the strong visual hierarchies that makes them work](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1). _Towards Data Science Medium blog_, June 1.
+
 
 
 ### Applications to Biology and Reviews

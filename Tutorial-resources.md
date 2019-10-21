@@ -64,6 +64,8 @@ Zador, A.M. (2019). [A critique of pure learning and what artificial neural netw
 
 Marcus, G. (2018). [Bengio v Marcus, and the Past, Present and Future of Neural Network Models of Language](https://medium.com/@GaryMarcus/bengio-v-marcus-and-the-past-present-and-future-of-neural-network-models-of-language-b4f795ff352b). _Machine Learning Medium_, October 28.
 
+Garnelo, M. and Shanahan, M. (2019). [Reconciling deep learning with symbolic artiﬁcial intelligence: representing objects and relations](https://www.sciencedirect.com/science/article/pii/S2352154618301943). _Current Opinion in Behavioral Sciences_, 29, 17–23.
+
 #### Physical Laws in Neural Networks  
 
 Lin, H.W., Tegmark, M., and Rolnick, D. (2016). [Why Does Deep and Cheap Learning Work So Well](https://arxiv.org/abs/1608.08225)? Journal of Statistical Physics, doi:10.1007/s10955-017-1836-5.

@@ -92,8 +92,6 @@ Data Science and ML Resources (Data Science Central)  [link](https://www.datasci
 
 Shafkat, I. (2018). [Intuitively Understanding Convolutions for Deep Learning Exploring the strong visual hierarchies that makes them work](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1). _Towards Data Science Medium blog_, June 1.
 
-
-
 ### Applications to Biology and Reviews
 
 Angermueller, C., Parnamaa, T., Parts, L., and Stegle, O. (2016). [Deep learning for computational biology](https://www.embopress.org/doi/pdf/10.15252/msb.20156651). _Molecular Systems Biology_, 12, 878. doi:10.15252/msb.20156651.
@@ -108,7 +106,7 @@ Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machi
 
 Xu, C. and Jackson, S.A. (2019). [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0). _Genome Biology_, 20, 76.
 
-### Developmental Generative Adversarial Networks (GANs):
+#### Developmental Generative Adversarial Networks (GANs):
 
 Dirvanauskas, D., Maskeliunas, R., Raudonis, V., Damasevicius, R., and Scherer, R. (2019). [HEMIGEN: Human Embryo Image Generator Based on Generative Adversarial Networks](https://www.mdpi.com/1424-8220/19/16/3578). _Sensors_, 19, 3578. doi:10.3390/s19163578.
 

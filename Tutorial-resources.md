@@ -108,7 +108,17 @@ Tarca, A.L., Carey, V.J., Chen, X-W., Romero, R., and Draghici, S. (2007) [Machi
 
 Xu, C. and Jackson, S.A. (2019). [Machine learning and complex biological data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1689-0). _Genome Biology_, 20, 76.
 
+### Developmental Generative Adversarial Networks (GANs):
 
+Dirvanauskas, D., Maskeliunas, R., Raudonis, V., Damasevicius, R., and Scherer, R. (2019). [HEMIGEN: Human Embryo Image Generator Based on Generative Adversarial Networks](https://www.mdpi.com/1424-8220/19/16/3578). _Sensors_, 19, 3578. doi:10.3390/s19163578.
+
+Ghahramani, A., Watt, F.M., and Luscombe, N.M. (2018). [Generative adversarial networks simulate gene expression and predict perturbations in single cells](https://www.biorxiv.org/content/10.1101/262501v2). _bioRxiv_, doi:10.1101/262501.
+
+Han, L., Murphy, R.F., and Ramanan, D. (2018). [Learning Generative Models of Tissue Organization with Supervised GANs](https://phymhan.github.io/pdf/supervised_gan.pdf). IEEE Winter Conference on Applied Compututer Vision, 682–690. doi:10.1109/WACV.2018.00080.
+
+Huang, H., Zhoutao, W., Gong, Y., Xu, Q. (2018). [Contour Extraction of Drosophila Embryos Based on Conditional Generative Adversarial Nets](https://www.researchgate.net/publication/330953777_Contour_Extraction_of_Drosophila_Embryos_Based_on_Conditional_Generative_Adversarial_Nets). 7th International Conference on Digital Home (ICDH). doi:10.1109/ICDH.2018.00022.
+
+### Tools and Tutorials  
 [MetaCell](https://www.metacell.us/) Webinar: [Intersections between Deep Learning and Neuroscience](https://www.metacell.us/events/intersections-between-deep-learning-and-neuroscience)
 
 Lineage-resolved Molecular Atlas (Cello, single cell data explorer):  [link](https://cello.shinyapps.io/celegans/)

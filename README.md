@@ -31,6 +31,8 @@ October 9: sixth meeting (TensorFlow Tutorial). [video](https://www.youtube.com/
 
 Join us for Hacktoberfest through the month of October. Check out [our issues board](https://github.com/devoworm/DW-ML/projects/2) and make a pull request today!
 
-October 16: seventh meeting (Computational Pareidolia). [video](), [slides](https://docs.google.com/presentation/d/10Jb4wcdoauhjuJUMLGQHNtbPs2903BlxfZtv8Ai9oL0/edit?usp=sharing)
+October 16: seventh meeting (general discussion). [video](https://www.youtube.com/watch?v=fB2zYMNOcX0)
+
+October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/Br6llVE3Peg), [slides](https://docs.google.com/presentation/d/10Jb4wcdoauhjuJUMLGQHNtbPs2903BlxfZtv8Ai9oL0/edit?usp=sharing)
 
 Date TBA: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)

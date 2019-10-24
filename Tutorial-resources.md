@@ -58,6 +58,8 @@ Intuition Machines versus Algebraic Minds. Intuition Machines Medium blog, Janua
 
 The Current State of AI. Gary Marcus Medium blog, October 12, 2019. [link](https://medium.com/@GaryMarcus/the-current-state-of-ai-and-deep-learning-a-reply-to-yoshua-bengio-77952ead7970)
 
+Marcus, G. (2018). [Innateness, AlphaZero, and Artificial Intelligence](https://arxiv.org/abs/1801.05667). _arXiv_, 1801.05667.
+
 Brooks, R.A. (1991). [Intelligence without representation](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.308.6537&rep=rep1&type=pdf). _Artificial Intelligence_, 47, 139–159.
 
 Zador, A.M. (2019). [A critique of pure learning and what artificial neural networks can learn from animal brains](https://www.nature.com/articles/s41467-019-11786-6). _Nature Communications_, 10, 3770.

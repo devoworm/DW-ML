@@ -1,4 +1,4 @@
-To be cross-posted to [Synthetic Daisies](http://syntheticdaisies.blogspot.com/) and [The Node](https://thenode.biologists.com/) blogs
+To be cross-posted to [Synthetic Daisies](http://syntheticdaisies.blogspot.com/) and [The Node](https://thenode.biologists.com/) blogs. Date: TBA
 
 ## What is a pre-trained model? 
 

@@ -35,4 +35,8 @@ October 16: seventh meeting (general discussion). [video](https://www.youtube.co
 
 October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/Br6llVE3Peg), [slides](https://docs.google.com/presentation/d/10Jb4wcdoauhjuJUMLGQHNtbPs2903BlxfZtv8Ai9oL0/edit?usp=sharing)
 
+October 30: ninth meeting (Developmental GANs). [video]() [slides]()
+
+
+
 Date TBA: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)

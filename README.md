@@ -35,7 +35,7 @@ October 16: seventh meeting (general discussion). [video](https://www.youtube.co
 
 October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/Br6llVE3Peg), [slides](https://docs.google.com/presentation/d/10Jb4wcdoauhjuJUMLGQHNtbPs2903BlxfZtv8Ai9oL0/edit?usp=sharing)
 
-October 30: ninth meeting (Developmental GANs). [video]() [slides]()
+October 30: ninth meeting (Developmental GANs and TBD). [video]() [slides](https://docs.google.com/presentation/d/1sLkH9PpaM54HMsLbn2MLnJt-soADnvpqoNYN6CfVRmc/edit?usp=sharing)
 
 
 

@@ -20,7 +20,7 @@ Gartner Hype Cycle for AI and ML (2019)
 
 September 25: fourth meeting (Input Data). [video](https://youtu.be/0zD8e-YGRlg), [slides](https://docs.google.com/presentation/d/1KwiWzh9Gjam8EFo8FyU3Kvam029qOnduUrkivroF7og/edit#slide=id.g6370173ebf_0_31)
 
-October 2: fifth meeting (pre-trained models for Biology). [video](https://youtu.be/qJ0R2fa389g), [slides](https://docs.google.com/presentation/d/1UKOkbJHyOCMcXgN_WN7qQJ_g5pr9VsyxzQSdZE990vY/edit#slide=id.g61bd697872_0_0)
+October 2: fifth meeting (Pre-trained Models for Biology). [video](https://youtu.be/qJ0R2fa389g), [slides](https://docs.google.com/presentation/d/1UKOkbJHyOCMcXgN_WN7qQJ_g5pr9VsyxzQSdZE990vY/edit#slide=id.g61bd697872_0_0)
 
 Space of process models, cognitive models vs. machine learning models vs. neural simulations. From: Figure 3 in Kriegeskorte and Douglas, "[Cognitive computational neuroscience](https://arxiv.org/abs/1807.11819)". _arXiv_, 1807.11819.
 <p align="center">
@@ -36,6 +36,9 @@ October 16: seventh meeting (general discussion). [video](https://www.youtube.co
 October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/Br6llVE3Peg), [slides](https://docs.google.com/presentation/d/10Jb4wcdoauhjuJUMLGQHNtbPs2903BlxfZtv8Ai9oL0/edit?usp=sharing)
 
 October 30: ninth meeting (Developmental GANs and GANs in Medical Imaging). [Video](https://www.youtube.com/watch?v=6wR_UQF9I-U). Developmental GANs [slides](https://docs.google.com/presentation/d/1sLkH9PpaM54HMsLbn2MLnJt-soADnvpqoNYN6CfVRmc/edit?usp=sharing), GANs in Medical Imaging [slides]().
+
+Pre-trained Models for Biology (see October 2 for topic) blog post [The Node](https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/)
+
 
 
 

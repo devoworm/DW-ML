@@ -37,7 +37,7 @@ October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/
 
 October 30: ninth meeting (Developmental GANs and GANs in Medical Imaging). [Video](https://www.youtube.com/watch?v=6wR_UQF9I-U). Developmental GANs [slides](https://docs.google.com/presentation/d/1sLkH9PpaM54HMsLbn2MLnJt-soADnvpqoNYN6CfVRmc/edit?usp=sharing), GANs in Medical Imaging [slides]().
 
-Pre-trained Models for Biology (see October 2 for topic) blog post [The Node](https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/)
+[Pre-trained Models for Biology](https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/) (see October 2 for topic). Blog post at [The Node](https://thenode.biologists.com/).
 
 
 

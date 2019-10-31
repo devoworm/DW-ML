@@ -3,7 +3,7 @@ To be cross-posted to [Synthetic Daisies](http://syntheticdaisies.blogspot.com/)
 ## Pre-trained Models for Developmental Biology  
 Bradly Alicea, Richard Gordon, Abraham Kohrmann, Jesse Parent, Vinay Varma 
 
-#### 1351 words
+#### 1352 words
 Our virtual discussion group (DevoWormML) has been exploring a number of topics related to the use of pre-trained models in machine learning (specifically deep learning). Pre-trained models such as GPT-2 [1], pix2pix [2], and OpenPose [3] are used for analyzing many specialized types of data (linguistics, image to image translation, and human body features, respectively) and have a number of potential uses for the analysis of biological data in particular. It may be challenging to find large, rich, and specific datasets for training a more general model. This is often the case in the fields of Bioinformatics or Medical Image analysis. Data acquisition in such fields is often restricted due to the following factors:
 
 1) privacy restrictions inhibit public access to personal information, and may impose limits on data use.

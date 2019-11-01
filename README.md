@@ -35,11 +35,13 @@ October 16: seventh meeting (general discussion). [video](https://www.youtube.co
 
 October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/Br6llVE3Peg), [slides](https://docs.google.com/presentation/d/10Jb4wcdoauhjuJUMLGQHNtbPs2903BlxfZtv8Ai9oL0/edit?usp=sharing)
 
-October 30: ninth meeting (Developmental GANs and GANs in Medical Imaging). [Video](https://www.youtube.com/watch?v=6wR_UQF9I-U). Developmental GANs [slides](https://docs.google.com/presentation/d/1sLkH9PpaM54HMsLbn2MLnJt-soADnvpqoNYN6CfVRmc/edit?usp=sharing), GANs in Medical Imaging [slides]().
+October 30: ninth meeting (Developmental GANs and GANs in Medical Imaging). [Video](https://www.youtube.com/watch?v=6wR_UQF9I-U). Developmental GANs [slides](https://docs.google.com/presentation/d/1sLkH9PpaM54HMsLbn2MLnJt-soADnvpqoNYN6CfVRmc/edit?usp=sharing), GANs in Medical Imaging [slides](https://docs.google.com/presentation/d/1p5xp6Ci8r6_KbZ9Vd_u7osZwRCGLMbsG5ac4Kau7MD8/edit#slide=id.p).
 
-[Pre-trained Models for Biology](https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/) (see October 2 for topic). Blog post at [The Node](https://thenode.biologists.com/).
+__NEW!__ [Pre-trained Models for Biology](https://thenode.biologists.com/pre-trained-machine-learning-models-for-developmental-biology/uncategorized/) (see October 2 for topic). Blog post at [The Node](https://thenode.biologists.com/).
 
 
 
 
 Date TBA: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)
+
+Date TBA: Reinforcement Learning  [slides]()

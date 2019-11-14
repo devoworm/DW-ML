@@ -10,6 +10,8 @@ OpenCV: a software package for Machine Learning algorithm implementation  [link]
 
 Keras: neural networks and deep learning library  [link](https://keras.io)
 
+Scikit-Learn: achine learning in Python  [link](https://scikit-learn.org/stable/)
+
 ### Major Venues
 Distill (open journal)   [link](https://distill.pub/)
 

@@ -33,6 +33,8 @@ AlexNet  [link](https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6c
 
 Inception  [link](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 
+GPT-2  [link](https://openai.com/blog/better-language-models/)
+
 DeepLab  [link](https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 
 Mask R-CNN  [link](https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272)

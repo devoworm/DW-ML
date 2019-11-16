@@ -123,9 +123,11 @@ Huang, H., Zhoutao, W., Gong, Y., Xu, Q. (2018). [Contour Extraction of Drosophi
 ### Tools and Tutorials  
 [MetaCell](https://www.metacell.us/) Webinar: [Intersections between Deep Learning and Neuroscience](https://www.metacell.us/events/intersections-between-deep-learning-and-neuroscience)
 
-Lineage-resolved Molecular Atlas (Cello, single cell data explorer):  [link](https://cello.shinyapps.io/celegans/)
+Lineage-resolved Molecular Atlas (VisCello, single cell data explorer):  [link](https://cello.shinyapps.io/celegans/)
 
 "Machine Learning and Artificial Intelligence in Bioinformatics" section in _BMC Bioinformatics_  [link](https://www.biomedcentral.com/collections/machinelearningcomp)
+
+Worm Neural Information Processing workshop (WNIP). NeurIPS Workshop, December 8, 2017.  [link](https://sites.google.com/site/wwnip2017/)
 
 
 ### Allied Methods

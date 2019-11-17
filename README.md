@@ -43,7 +43,9 @@ November 6: tenth meeting (general discussion). [video](https://www.youtube.com/
 
 November 13: eleventh meeting (Game Theory in Machine Learning and Development). [video](https://www.youtube.com/watch?v=xcRgVfYTcLg&t=1s), [slides](https://docs.google.com/presentation/d/1I0dNvCqVT4WPLapFFlLhMJmoGFfp-J4WfCsav5s-TAM/edit#slide=id.p)
 
+November 20: Reinforcement Learning  [video](), [slides]()
+
+November 27: TBA
 
 Date TBA: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)
 
-Date TBA: Reinforcement Learning  [slides]()

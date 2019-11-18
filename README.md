@@ -47,5 +47,11 @@ November 20: Reinforcement Learning  [video](), [slides]()
 
 November 27: TBA
 
+December 4: TBA
+
+December 11: TBA
+
+December 18: TBA
+
 Date TBA: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)
 

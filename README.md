@@ -45,7 +45,7 @@ November 13: eleventh meeting (Game Theory in Machine Learning and Development).
 
 November 20: twelfth meeting (Reinforcement Learning). [video](https://www.youtube.com/watch?v=5uvCTuSHpgY), [slides](https://docs.google.com/presentation/d/1Zc8FTyTnkiZ6aVBPYUevKt6Q_J-c34gtztXdE-JmG2w/edit#slide=id.g78e715f194_0_79)
 
-November 27: thirteenth meeting (ML, RL, and Cybernetics). [video](), [slides](https://docs.google.com/presentation/d/1W5LeM7JDxtluV11MXdqzhSQfq6VjYOsiuR_jWPwEPa8/edit?usp=sharing)
+November 27: thirteenth meeting (Biological Metaphors and ML, RL, and Cybernetics). [video](https://www.youtube.com/watch?v=lftW-Z3lUcg), [slides](https://docs.google.com/presentation/d/1W5LeM7JDxtluV11MXdqzhSQfq6VjYOsiuR_jWPwEPa8/edit?usp=sharing)
 
 December 4: TBA
 

@@ -49,9 +49,9 @@ November 25 (meetings shifted to Mondays at 3pm UTC): thirteenth meeting (Biolog
 
 December 2: fourteenth meeting (Assorted Topics). [video](), [slides]()
 
-December 9: TBA
+December 9: fifteenth meeting (TBD). [video](), [slides]()
 
-December 16: TBA
+December 16: sixteenth meeting (Hierarchical Temporal Modeling - HTM). [video](), [slides]()
 
-Date TBA: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)
+Additional Materials: Theory-building for Data Science  [slides](https://www.researchgate.net/publication/320407552_Theory-building_for_Data_Science?_sg=HNuLFUjdMCGMrCNzXxHRB1IoQF1X3-OXaBP19IciYAAphSC6uGZfw3DlPeNEACpcrrMo6DnqntHOR2qyWRJn2fZ7uvbgzZdMvC4fi4fE.kzX8-r3ryybwuuoYLFH_c_BlzSZiiaHTI_wtBuK18BfYQ1x7p8x2m8ndD1J9I5BFC-SkvPMJ3uJbXuJwGx-YNQ)
 

@@ -47,7 +47,7 @@ November 20: twelfth meeting (Reinforcement Learning). [video](https://www.youtu
 
 November 25 (meetings shifted to Mondays at 3pm UTC): thirteenth meeting (Biological Metaphors and ML, RL, and Cybernetics). [video](https://www.youtube.com/watch?v=lftW-Z3lUcg), [slides](https://docs.google.com/presentation/d/1W5LeM7JDxtluV11MXdqzhSQfq6VjYOsiuR_jWPwEPa8/edit?usp=sharing)
 
-December 2: fourteenth meeting (Assorted Topics). [video](), [slides]()
+December 2: fourteenth meeting (Deep Fovea, Medical Imaging, and Peter's Rule). [video](https://youtu.be/6AFNboZY6uQ), [Deep Fovea slides](https://drive.google.com/file/d/1gJ8CSyReGp7jBDlgmu7pDB4EWAjdwTTw/view?usp=sharing), [CT Problem slides](https://drive.google.com/file/d/15odf64dVKZcZMtRQWCMS6hPj9fREDPNC/view?usp=sharing)
 
 December 9: fifteenth meeting (TBD). [video](), [slides]()
 

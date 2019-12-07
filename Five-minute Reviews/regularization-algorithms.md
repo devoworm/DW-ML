@@ -1,1 +1,1 @@
-
+Examples include [least Absolute Shrinkage and Selection Operator (LASSO) regression](https://en.wikipedia.org/wiki/Lasso_(statistics)) and [Tikhonov (ridge) regression](https://en.wikipedia.org/wiki/Tikhonov_regularization).

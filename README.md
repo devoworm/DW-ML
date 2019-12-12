@@ -47,9 +47,9 @@ November 20: twelfth meeting (Reinforcement Learning). [video](https://www.youtu
 
 November 25 (meetings shifted to Mondays at 3pm UTC): thirteenth meeting (Biological Metaphors and ML, RL, and Cybernetics). [video](https://www.youtube.com/watch?v=lftW-Z3lUcg), [slides](https://docs.google.com/presentation/d/1W5LeM7JDxtluV11MXdqzhSQfq6VjYOsiuR_jWPwEPa8/edit?usp=sharing)
 
-December 2: fourteenth meeting (Deep Fovea, Medical Imaging, and Peter's Rule). [video](https://youtu.be/6AFNboZY6uQ), [Deep Fovea slides](https://drive.google.com/file/d/1gJ8CSyReGp7jBDlgmu7pDB4EWAjdwTTw/view?usp=sharing), [CT Problem slides](https://drive.google.com/file/d/15odf64dVKZcZMtRQWCMS6hPj9fREDPNC/view?usp=sharing), [Peter's Rule paper](https://www.ncbi.nlm.nih.gov/pubmed/28041634)
+December 2: fourteenth meeting (Deep Fovea, Medical Imaging, and Peter's Rule). [video](https://youtu.be/6AFNboZY6uQ), Deep Fovea [slides](https://drive.google.com/file/d/1gJ8CSyReGp7jBDlgmu7pDB4EWAjdwTTw/view?usp=sharing), CT Problem [slides](https://drive.google.com/file/d/15odf64dVKZcZMtRQWCMS6hPj9fREDPNC/view?usp=sharing), Peter's Rule [paper](https://www.ncbi.nlm.nih.gov/pubmed/28041634)
 
-December 9: fifteenth meeting (Invariance and Universal Features). [video](https://youtu.be/705PthV4X6o), [slides](https://docs.google.com/presentation/d/1vDQ8ukwoDunF9FCw84Jz1NGd8KqPUUpL16XEB3gqiIU/edit?usp=sharing), [Hydrodynamics of Embryo Cell Positioning](https://science.sciencemag.org/content/365/6452/465)
+December 9: fifteenth meeting (Invariance and Universal Features). [video](https://youtu.be/705PthV4X6o), [slides](https://docs.google.com/presentation/d/1vDQ8ukwoDunF9FCw84Jz1NGd8KqPUUpL16XEB3gqiIU/edit?usp=sharing), Hydrodynamics of Embryo Cell Positioning [paper](https://science.sciencemag.org/content/365/6452/465)
 
-December 16: sixteenth meeting (Hierarchical Temporal Modeling - HTM). [video](), [slides](), [Rethinking the Bias-Variance Tradeoff](https://arxiv.org/abs/1812.11118)
+December 16: sixteenth meeting (Hierarchical Temporal Modeling - HTM). [video](), [slides](), Rethinking the Bias-Variance Tradeoff [paper](https://arxiv.org/abs/1812.11118)
 

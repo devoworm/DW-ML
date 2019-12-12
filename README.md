@@ -51,5 +51,5 @@ December 2: fourteenth meeting (Deep Fovea, Medical Imaging, and Peter's Rule). 
 
 December 9: fifteenth meeting (Invariance and Universal Features). [video](https://youtu.be/705PthV4X6o), [slides](https://docs.google.com/presentation/d/1vDQ8ukwoDunF9FCw84Jz1NGd8KqPUUpL16XEB3gqiIU/edit?usp=sharing), [Hydrodynamics of Embryo Cell Positioning](https://science.sciencemag.org/content/365/6452/465)
 
-December 16: sixteenth meeting (Hierarchical Temporal Modeling - HTM). [video](), [slides]()
+December 16: sixteenth meeting (Hierarchical Temporal Modeling - HTM). [video](), [slides](), [Rethinking the Bias-Variance Tradeoff](https://arxiv.org/abs/1812.11118)
 

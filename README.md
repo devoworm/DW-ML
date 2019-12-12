@@ -51,5 +51,10 @@ December 2: fourteenth meeting (Deep Fovea, Medical Imaging, and Peter's Rule). 
 
 December 9: fifteenth meeting (Invariance and Universal Features). [video](https://youtu.be/705PthV4X6o), [slides](https://docs.google.com/presentation/d/1vDQ8ukwoDunF9FCw84Jz1NGd8KqPUUpL16XEB3gqiIU/edit?usp=sharing), Hydrodynamics of Embryo Cell Positioning [paper](https://science.sciencemag.org/content/365/6452/465)
 
+Artificial neural architectures and a minimization function for the brain? From: Figure 1 in Richards et.al, "[A Deep Learning framework for neuroscience](https://www.nature.com/articles/s41593-019-0520-2)". _Nature Neuroscience_, 22, 1761–1770.
+<p align="center">
+  <img width="298" height="234" src="https://user-images.githubusercontent.com/19001437/65164955-79849580-da03-11e9-9768-6f113e808775.jpg">
+</p>
+
 December 16: sixteenth meeting (Hierarchical Temporal Modeling - HTM). [video](), [slides](), Rethinking the Bias-Variance Tradeoff [paper](https://arxiv.org/abs/1812.11118)
 

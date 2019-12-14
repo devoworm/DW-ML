@@ -56,5 +56,5 @@ Artificial neural architectures and a minimization function for the brain? From:
   <img width="253" height="171" src="https://user-images.githubusercontent.com/19001437/70742584-7f78d280-1ce3-11ea-91b2-d153bac0d2c0.png">
 </p>
 
-December 16: sixteenth meeting (Hierarchical Temporal Modeling - HTM). [video](), [slides](), Rethinking the Bias-Variance Tradeoff [paper](https://arxiv.org/abs/1812.11118)
+December 16: sixteenth meeting (Hierarchical Temporal Modeling). [video](), [slides](https://docs.google.com/presentation/d/1HuVRIl1byhHSlUy9SS1ZeWhn_t-09Myhr4HIWwYGteA/edit#slide=id.g7ac04927c6_0_0), Rethinking the Bias-Variance Tradeoff [paper](https://arxiv.org/abs/1812.11118)
 

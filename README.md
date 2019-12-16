@@ -56,6 +56,6 @@ Artificial neural architectures and a minimization function for the brain? From:
   <img width="253" height="171" src="https://user-images.githubusercontent.com/19001437/70742584-7f78d280-1ce3-11ea-91b2-d153bac0d2c0.png">
 </p>
 
-December 16: sixteenth meeting (Hierarchical Temporal Modeling). [video](), [slides](https://docs.google.com/presentation/d/1HuVRIl1byhHSlUy9SS1ZeWhn_t-09Myhr4HIWwYGteA/edit#slide=id.p), Rethinking the Bias-Variance Tradeoff [paper](https://arxiv.org/abs/1812.11118), Skepticism of backpropagation in AI [discussion](https://www.quora.com/Why-is-Geoffrey-Hinton-suspicious-of-backpropagation-and-wants-AI-to-start-over/answer/Sridhar-Mahadevan-6?ch=10&share=08540b54&srid=3oMez
+December 16: sixteenth meeting (Hierarchical Temporal Modeling and New Directions). [video](), [slides](https://docs.google.com/presentation/d/1HuVRIl1byhHSlUy9SS1ZeWhn_t-09Myhr4HIWwYGteA/edit#slide=id.p), Rethinking the Bias-Variance Tradeoff [paper](https://arxiv.org/abs/1812.11118), Skepticism of backpropagation in AI [discussion](https://www.quora.com/Why-is-Geoffrey-Hinton-suspicious-of-backpropagation-and-wants-AI-to-start-over/answer/Sridhar-Mahadevan-6?ch=10&share=08540b54&srid=3oMez
 )
 

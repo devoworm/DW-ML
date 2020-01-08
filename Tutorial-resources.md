@@ -55,6 +55,8 @@ Artificial Intelligence and Deep Learning  [link](https://www.datasciencecentral
 
 Open Questions about Generative Adversarial Networks (GANs)  [link](https://distill.pub/2019/gan-open-problems/)
 
+Bengio-Marcus debate notes  [link](https://montrealartificialintelligence.com/aidebate/)
+
 #### Innateness (representation) vs. a Data-driven Blank Slate  
 
 "Blobs" vs. "symbols" debate:

@@ -17,7 +17,7 @@ Distill (open journal)   [link](https://distill.pub/)
 
 arXiv stat.ML (preprints)  [link](https://arxiv.org/list/stat.ML/recent)
 
-The Gradient  [link]()
+The Gradient  [link](https://thegradient.pub/)
 
 DeepAI  [link](https://deepai.org/)
 * social network, publishing repository, and resource.

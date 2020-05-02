@@ -17,6 +17,11 @@ Distill (open journal)   [link](https://distill.pub/)
 
 arXiv stat.ML (preprints)  [link](https://arxiv.org/list/stat.ML/recent)
 
+The Gradient  [link]()
+
+DeepAI  [link](https://deepai.org/)
+* social network, publishing repository, and resource.
+
 Medium blog Machine Learning category  [link](https://medium.com/topic/machine-learning)
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (journal)  [link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)

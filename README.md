@@ -33,7 +33,7 @@ Join us for Hacktoberfest through the month of October. Check out [our issues bo
 
 October 16: seventh meeting (general discussion). [video](https://www.youtube.com/watch?v=fB2zYMNOcX0)
 
-October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/Br6llVE3Peg), [slides](https://docs.google.com/presentation/d/10Jb4wcdoauhjuJUMLGQHNtbPs2903BlxfZtv8Ai9oL0/edit?usp=sharing)
+October 23: eighth meeting (Computational Pareidolia). [video](https://youtu.be/Br6llVE3Peg), [slides](https://docs.google.com/presentation/d/1LQd6GWfVf-agO61LQnl62ftMpmnrBdUUEhy1WVjFX0c/edit#slide=id.p)
 
 October 30: ninth meeting (Developmental GANs and GANs in Medical Imaging). [Video](https://www.youtube.com/watch?v=6wR_UQF9I-U). Developmental GANs [slides](https://docs.google.com/presentation/d/1sLkH9PpaM54HMsLbn2MLnJt-soADnvpqoNYN6CfVRmc/edit?usp=sharing), GANs in Medical Imaging [slides](https://docs.google.com/presentation/d/1p5xp6Ci8r6_KbZ9Vd_u7osZwRCGLMbsG5ac4Kau7MD8/edit#slide=id.p).
 

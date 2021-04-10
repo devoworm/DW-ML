@@ -10,7 +10,7 @@ OpenCV: a software package for Machine Learning algorithm implementation  [link]
 
 Keras: neural networks and deep learning library  [link](https://keras.io)
 
-Scikit-Learn: achine learning in Python  [link](https://scikit-learn.org/stable/)
+Scikit-Learn: Machine learning in Python  [link](https://scikit-learn.org/stable/)
 
 ### Major Venues
 Distill (open journal)   [link](https://distill.pub/)
@@ -43,6 +43,8 @@ GPT-2  [link](https://openai.com/blog/better-language-models/)
 DeepLab  [link](https://ai.googleblog.com/2018/03/semantic-image-segmentation-with.html)
 
 Mask R-CNN  [link](https://medium.com/@jonathan_hui/image-segmentation-with-mask-r-cnn-ebe6d793272)
+
+UNet  [link](https://towardsdatascience.com/u-net-b229b32b4a71)
 
 Pre-trained Model Zoo  [link](https://modelzoo.co/)
 
